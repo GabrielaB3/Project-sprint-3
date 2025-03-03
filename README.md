@@ -7,7 +7,7 @@ This project is my first responsive web application, built with the aim of impro
 One of the key features of the project is the hover functionality integrated into the buttons, which enhances interactivity. The goal of this project was to create a dynamic, interactive experience that is both visually appealing and functional, addressing the need for responsive design and intuitive user interaction.
 
 
-### Technologies and techniques used 
+## Technologies and techniques used 
 
 * Semantic HTML5 and CSS 
 * Flexbox 
@@ -16,11 +16,11 @@ One of the key features of the project is the hover functionality integrated int
 * Responsive Design
 * Media Queries  
 
-#### Pictures
+## Pictures
 ![screen](./images/demo/)
   
 
-##### Link to project on GitHub Pages
+### Link to project on GitHub Pages
   
 **Figma**  
   
