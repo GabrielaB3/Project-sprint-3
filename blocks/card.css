@@ -28,7 +28,7 @@
   display: block;
 }
 
-.card__like-buttom {
+.card__like-button {
   background-image: url(../images/like-icone.svg);
   width: 23px;
   height: 20px;
@@ -37,7 +37,7 @@
   opacity: 0.4;
 }
 
-.card__like-buttom:hover {
+.card__like-button:hover {
   opacity: 1;
 }
 
