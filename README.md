@@ -23,9 +23,12 @@ One of the key features of the project is the hover functionality integrated int
 ![alt text](./images/demo/Media_screen.png)
   
 
-### Link to project on GitHub Pages
+## Link to project on GitHub Pages
 
 * [Link to the project](https://gabrielab3.github.io/Project-sprint-3/)
+
+## Link to the video in Drive
+* [Link to the video](https://drive.google.com/file/d/1KlqCOt8J30VPYR8TkOlN7uLV6g3Mqqi3/view?usp=drive_link)
   
 **Figma**  
   
