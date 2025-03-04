@@ -17,7 +17,10 @@ One of the key features of the project is the hover functionality integrated int
 * Media Queries  
 
 ## Pictures
-![screen](./images/demo/)
+![alt text](./images/demo/Block_screen.png)
+![alt text](./images/demo/div_screen.png)
+![alt text](./images/demo/hover_screen.png)
+![alt text](./images/demo/Media_screen.png)
   
 
 ### Link to project on GitHub Pages
