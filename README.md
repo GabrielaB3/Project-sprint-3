@@ -24,6 +24,8 @@ One of the key features of the project is the hover functionality integrated int
   
 
 ### Link to project on GitHub Pages
+
+* [Link to the project](https://gabrielab3.github.io/Project-sprint-3/)
   
 **Figma**  
   
