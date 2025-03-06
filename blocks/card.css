@@ -26,6 +26,7 @@
   width: 100%;
   object-fit: cover;
   display: block;
+  border-radius: 8px
 }
 
 .card__like-button {
@@ -35,6 +36,10 @@
   border: none;
   background-color: transparent;
   opacity: 0.4;
+  cursor: pointer;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .card__like-button:hover {
@@ -49,6 +54,12 @@
 
   .card__title {
     font-size: 16px;
-    max-width: 288px
+    max-width: 250px
   }
+
+  .card__like-button {
+    width: 20px;
+    height: 18px;
+  }
+
   }
