@@ -59,6 +59,7 @@
   gap: 8px;
   opacity: 0.7;
   cursor: pointer;
+  padding: 0;
 }
 
 .profile__pencile-button {
