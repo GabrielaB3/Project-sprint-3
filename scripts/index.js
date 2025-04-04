@@ -5,3 +5,28 @@ const initialCards = [{name: "Val Thorens", link: "https://practicum-content.s3.
   {name: "Tunnel with morning light", link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/5-photo-by-van-anh-nguyen-from-pexels.jpg"},
   {name: "Mountain house", link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/6-photo-by-moritz-feldmann-from-pexels.jpg"},
 ];
+
+const editProfileBtn = document.querySelector('.profile__edit-button');
+const editProfileModal = document.querySelector('#edit-profile-modal');
+const editProfileCloseBtn = editProfileModal.querySelector ('.modal__close-btn');
+
+editProfileBtn.addEventListener("click", function(){
+  editProfileModal.classList.add("modal_opened");
+})
+
+editProfileCloseBtn.addEventListener("click", function () {
+  editProfileModal.classList.remove("modal_opened");
+})
+
+const newPostBtn = document.querySelector('.profile__add-button');
+const newPostModal = document.querySelector('#new-post-modal');
+const newPostCloseBtn = newPostModal.querySelector('.modal__close-btn');
+
+newPostBtn.addEventListener("click", function() {
+  newPostModal.classList.add("modal_opened");
+})
+
+newPostCloseBtn.addEventListener("click", function() {
+  newPostModal.classList.remove("modal_opened");
+
+})
